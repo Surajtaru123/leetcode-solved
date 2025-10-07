@@ -10,3 +10,10 @@ Date : Oct 04, 2025
 Time : 10:00 AM
 Place: Shreyan Viman (01)
 
+
+Linked Lists problems (2)
+Date : Oct 07, 2025
+Time : 5:41 PM 
+Place Shreyan Viaman
+
+> Leetcode 100, and 101 solved
