@@ -30,3 +30,14 @@ Place: Shreyan Viman (01)
 > Leetcode 02 medium, 04 hard problem(s) solved
 
 **************************************************
+
+Date : Oct 09, 2025
+Time : 11:30 PM
+Place: Shreyan Viman (01)
+
+> Leetcode 24, 203 (medium, easy) 
+
+**************************************************
+
+
+End
