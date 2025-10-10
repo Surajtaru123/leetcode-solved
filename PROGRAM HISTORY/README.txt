@@ -43,7 +43,7 @@ Date : Oct 10, 2025
 Time : 7:44 PM
 Place: Shreyan Viman (01)
 
-> Leetcode 144, 145 (easy, easy)
+> Leetcode 144, 145, 141, 104 (easy, easy, easy, easy)
 
 **************************************************
 
